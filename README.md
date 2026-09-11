@@ -4,7 +4,7 @@
 
 **A real-time webcam focus watchdog powered by YOLOv8.**
 
-Catches you reaching for your phone and calls you out — on screen and out loud.
+Catches you reaching for your phone and calls you out  on screen and out loud.
 
 Python 3.8+ · YOLOv8 · OpenCV · MIT License · Windows, macOS and Linux
 
